@@ -1,0 +1,32 @@
+{
+  "name": "react-native-countrycodepicker",
+  "version": "1.0.0",
+  "description": "A custom country code picker/selector for react native applications with flag,country code and currency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react",
+    "native",
+    "mobile",
+    "ios",
+    "android",
+    "country-code-picker"
+  ],
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.51.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "prop-types": "^15.6.2",
+    "react-native-nav-header": "^1.0.0",
+    "react-native-svg": "^12.1.1"
+  },
+  "author": "Cosmas Mbuvi <saxonmuti@gmail.com>",
+  "license": "MIT"
+}
