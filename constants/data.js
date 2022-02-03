@@ -95,7 +95,7 @@ export const countryData = [
 ]
 
 const data = {
-    countryData
+   
 }
 
 export default data

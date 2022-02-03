@@ -1,6 +1,6 @@
 {
-  "name": "react-native-countrycodepicker",
-  "version": "1.0.0",
+  "name": "@crunchgarage/react-native-countrycodepicker",
+  "version": "1.0.4",
   "description": "A custom country code picker/selector for react native applications with flag,country code and currency",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,10 @@
     "android",
     "country-code-picker"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CossyCossy/react-native-countrycodepicker.git"
+  },
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.51.1"
   },
